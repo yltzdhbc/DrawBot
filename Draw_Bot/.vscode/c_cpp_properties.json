@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\arduino\\tools\\**",
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\**",
+                "/home/ylt/Software/arduino-1.8.9/hardware/arduino/avr/**",
+                "/home/ylt/Software/arduino-1.8.9/tools/**",
+                "/home/ylt/Software/arduino-1.8.10/hardware/arduino/avr/**",
+                "/home/ylt/Software/arduino-1.8.10/tools/**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\yu-xps\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.1\\cores\\arduino\\Arduino.h",
+                "/home/ylt/Software/arduino-1.8.9/hardware/arduino/avr/cores/arduino/Arduino.h",
+                "/home/ylt/Software/arduino-1.8.10/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
